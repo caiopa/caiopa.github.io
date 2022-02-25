@@ -10,10 +10,7 @@ body {
     position: relative;
     background:linear-gradient(180deg, rgb(0, 0, 0), rgb(13, 13, 84), rgb(56, 68, 136)) no-repeat;
         
-
 }
-
-
 
 header {
     display: flex;
@@ -43,8 +40,6 @@ strong:hover {
     color: rgb(204, 180, 40);
     top:-2px;
     
-    
-
 }
 
 main {
@@ -55,10 +50,6 @@ main {
     margin-top: 40px;
 
 }
-/* display: block;
-    margin-left: auto;
-    margin-right: auto */
-
 
 
 a {
